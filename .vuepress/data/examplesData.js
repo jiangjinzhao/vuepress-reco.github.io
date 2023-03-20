@@ -6,6 +6,12 @@ export default [
   thumbnail: 'https://gitee.com/javaxiaobear/javaXiaobear/raw/master/javaxiaobear.png' 
   },
   {
+    name: 'jiangjinzhao',
+    desc: '记录我的点点滴滴',
+    link: 'https://jiangjinzhao.gitee.io/',
+    thumbnail: 'https://i.loli.net/2020/04/04/dDLhpXJqvYuROfG.png'
+  },
+  {
     name: '午后南杂',
     desc: 'Enjoy when you can, and endure when you must.',
     link: 'https://www.recoluan.com',
